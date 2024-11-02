@@ -1,4 +1,4 @@
-# Vidslearch
+# Vidslearch ▶️
 Browse and play youtube videos through the terminal, cross platform.
 
 Search and play youtube videos privately without tracking.
@@ -11,9 +11,13 @@ Search and play youtube videos privately without tracking.
 # 🚀 Usage instructions
 ### To use this simple python program, simply install the required packages:
 ## pytube and curses
-> pip install pytube curses
+```
+pip install pytube curses
+```
 ## Make sure to properly update you're packages beforehand.
-> python vidslearch.py
+```
+python vidslearch.py
+```
 
 > [!NOTE]
 > This program may not work on newer processors as some older hardware
