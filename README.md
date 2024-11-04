@@ -19,6 +19,26 @@ pip install pytube curses
 ```
 python vidslearch.py
 ```
+# Output:
+```
+
+    //  $$\    $$\ $$\       $$\           $$\                                         $$\       $$\ $$\ $$\
+    //  $$ |   $$ |\__|      $$ |          $$ |                                        $$ |      $$ |$$ |$$ |
+    //  $$ |   $$ |$$\  $$$$$$$ | $$$$$$$\ $$ | $$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\ $$$$$$$\  $$ |$$ |$$ |
+    //  \$$\  $$  |$$ |$$  __$$ |$$  _____|$$ |$$  __$$\  \____$$\ $$  __$$\ $$  _____|$$  __$$\ $$ |$$ |$$ |
+    //   \$$\$$  / $$ |$$ /  $$ |\$$$$$$\  $$ |$$$$$$$$ | $$$$$$$ |$$ |  \__|$$ /      $$ |  $$ |\__|\__|\__|
+    //    \$$$  /  $$ |$$ |  $$ | \____$$\ $$ |$$   ____|$$  __$$ |$$ |      $$ |      $$ |  $$ |
+    //     \$  /   $$ |\$$$$$$$ |$$$$$$$  |$$ |\$$$$$$$\ \$$$$$$$ |$$ |      \$$$$$$$\ $$ |  $$ |$$\ $$\ $$\
+    //      \_/    \__| \_______|\_______/ \__| \_______| \_______|\__|       \_______|\__|  \__|\__|\__|\__|
+    //
+Enter a search term (or 'exit' to quit):
+```
+In this screen type the search term you would like.
+> [!NOTE]
+> You may need to change the number of results in the py code to ensure more results.
+> (DEFAULT IS ```20```)
+
+# End of ```README.md```
 
 > [!NOTE]
 > This program may not work on newer processors as some older hardware
